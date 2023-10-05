@@ -1,6 +1,6 @@
 # Hi there, I'm Rizal Jalaludin <a href="https://github.com/rizaljalaludin18"><img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="0.1vw" /></a>
 
-<a href="https://github.com/hippies67"><img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" /></a>
+<a href="https://github.com/rizaljalaludin18"><img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" /></a>
 
 ## A passionately curious Back End Developer
 
