@@ -2,9 +2,9 @@
 
 <a href="https://github.com/rizaljalaludin18"><img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" /></a>
 
-## A passionately curious Back End Developer
+## Back End Developer who is very curious and will continue to learn
 
-I am interested in full-stack, currently looking for new opportunities.
+I am an active student at April Eleven University
 
 ## Languages
 
