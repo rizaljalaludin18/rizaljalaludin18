@@ -2,7 +2,7 @@
 
 <a href="https://github.com/rizaljalaludin18"><img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" /></a>
 
-## 🚀 Backend Developer & Lifelong Learner
+## 🚀 Frond End Developer & Lifelong Learner
 
 🎓 Proudly studying at **April Eleven University**.
 
