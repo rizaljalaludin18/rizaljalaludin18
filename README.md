@@ -26,5 +26,6 @@ _Coming Soon..._
 
 ## 📊 My GitHub Stats
 
-_Pending..._
+[![Badge Name](https://img.shields.io/badge/Badge-Value-brightgreen)](https://github.com/rizaljalaludin18/)
+
 
