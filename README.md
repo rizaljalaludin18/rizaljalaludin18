@@ -1,4 +1,10 @@
 # 👋 Hello World! I'm Rizal Jalaludin <a href="https://github.com/rizaljalaludin18"><img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="0.1vw" /></a>
+
+<a href="https://github.com/rizaljalaludin18"><img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" /></a>
+
+## 🚀 Frond End Developer & Lifelong Learner
+
+🎓 Proudly studying at **April Eleven University**.
 ## 📊 My GitHub Stats
 <p align="center">
 <a href="https://github.com/rizaljalaludin18">
@@ -8,11 +14,7 @@
 </p>
 
 
-<a href="https://github.com/rizaljalaludin18"><img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" /></a>
 
-## 🚀 Frond End Developer & Lifelong Learner
-
-🎓 Proudly studying at **April Eleven University**.
 
 ## 🛠️ Languages & Tools
 
