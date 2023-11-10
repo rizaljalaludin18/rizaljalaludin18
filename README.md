@@ -1,4 +1,12 @@
 # 👋 Hello World! I'm Rizal Jalaludin <a href="https://github.com/rizaljalaludin18"><img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="0.1vw" /></a>
+## 📊 My GitHub Stats
+<p align="center">
+<a href="https://github.com/rizaljalaludin18">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rizaljalaludin18&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizaljalaludin18&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 
 <a href="https://github.com/rizaljalaludin18"><img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" /></a>
 
@@ -23,14 +31,6 @@
 ## 🌍 Projects I've Worked On
 
 _Coming Soon..._
-
-## 📊 My GitHub Stats
-<p align="center">
-<a href="https://github.com/rizaljalaludin18">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rizaljalaludin18&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizaljalaludin18&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 
 
