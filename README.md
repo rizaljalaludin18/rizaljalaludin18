@@ -24,9 +24,6 @@
 
 - **Environment & Servers:** ![Cpanel](https://img.shields.io/badge/-Cpanel-000?&logo=Cpanel&logoColor=F90) ![XAMPP](https://img.shields.io/badge/-Xampp-000?&logo=Xampp) ![Laragon](https://img.shields.io/badge/-Laragon-000?&logo=Laragon)
 
-## 🌍 Projects I've Worked On
-
-_Coming Soon..._
 
 ## 📊 My GitHub Stats
 
